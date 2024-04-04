@@ -1,0 +1,18 @@
+nav * {
+    font-weight: 700;
+    color: #222831 !important;
+}
+
+.logo {
+    max-height: 3rem; /* Atur tinggi maksimum logo */
+    width: auto; /* Biarkan lebar mengikuti proporsi aspek */
+}
+
+.nav-link {
+    padding: 0 !important;
+}
+
+nav li {
+    padding-left: 15px;
+    padding-right: 15px;
+}
